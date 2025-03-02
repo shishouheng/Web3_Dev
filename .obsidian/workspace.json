@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "区块链的数据结构"
             }
+          },
+          {
+            "id": "b203e500cc0e2deb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Merkle Proof.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Merkle Proof"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "区块链的数据结构.md",
+                "file": "Merkle Proof.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "区块链的数据结构 的反向链接列表"
+              "title": "Merkle Proof 的反向链接列表"
             }
           },
           {
@@ -142,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "区块链的数据结构.md",
+                "file": "Merkle Proof.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "区块链的数据结构 的出链列表"
+              "title": "Merkle Proof 的出链列表"
             }
           },
           {
@@ -171,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "区块链的数据结构.md",
+                "file": "Merkle Proof.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "区块链的数据结构 的大纲"
+              "title": "Merkle Proof 的大纲"
             }
           }
         ]
@@ -197,10 +211,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "03e71305f1740536",
+  "active": "b203e500cc0e2deb",
   "lastOpenFiles": [
-    "密码学原理.md",
     "区块链的数据结构.md",
+    "Merkle Proof.md",
+    "密码学原理.md",
     "Web3介绍.md"
   ]
 }
