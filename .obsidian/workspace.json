@@ -62,9 +62,33 @@
               "icon": "lucide-file",
               "title": "Merkle Proof"
             }
+          },
+          {
+            "id": "330f7951c3c647c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "区块链共识机制.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "区块链共识机制"
+            }
+          },
+          {
+            "id": "b02c175617c7ca9f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -137,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Merkle Proof.md",
+                "file": "区块链共识机制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +171,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Merkle Proof 的反向链接列表"
+              "title": "区块链共识机制 的反向链接列表"
             }
           },
           {
@@ -156,12 +180,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Merkle Proof.md",
+                "file": "区块链共识机制.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Merkle Proof 的出链列表"
+              "title": "区块链共识机制 的出链列表"
             }
           },
           {
@@ -185,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Merkle Proof.md",
+                "file": "区块链共识机制.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Merkle Proof 的大纲"
+              "title": "区块链共识机制 的大纲"
             }
           }
         ]
@@ -211,11 +235,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b203e500cc0e2deb",
+  "active": "330f7951c3c647c2",
   "lastOpenFiles": [
-    "区块链的数据结构.md",
-    "Merkle Proof.md",
     "密码学原理.md",
+    "区块链共识机制.md",
+    "Merkle Proof.md",
+    "挖矿的难度值以及挖矿的目标值.md",
+    "区块链的数据结构.md",
     "Web3介绍.md"
   ]
 }
