@@ -78,6 +78,62 @@
             }
           },
           {
+            "id": "1718948dc62f7e35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "区块链协议升级方式.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "区块链协议升级方式"
+            }
+          },
+          {
+            "id": "f12f1a400790c484",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Merkle Proof.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Merkle Proof"
+            }
+          },
+          {
+            "id": "7f659ec98fe33aba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "轻节点验证交易合法性流程.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "轻节点验证交易合法性流程"
+            }
+          },
+          {
+            "id": "6da2ab95a612b27c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UTXO交易模型.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UTXO交易模型"
+            }
+          },
+          {
             "id": "b02c175617c7ca9f",
             "type": "leaf",
             "state": {
@@ -88,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -235,11 +291,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "330f7951c3c647c2",
+  "active": "6da2ab95a612b27c",
   "lastOpenFiles": [
-    "密码学原理.md",
-    "区块链共识机制.md",
+    "轻节点验证交易合法性流程.md",
+    "UTXO交易模型.md",
     "Merkle Proof.md",
+    "比特币的 P2SH 机制.md",
+    "区块链协议升级方式.md",
+    "区块链共识机制.md",
+    "密码学原理.md",
     "挖矿的难度值以及挖矿的目标值.md",
     "区块链的数据结构.md",
     "Web3介绍.md"
