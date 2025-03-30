@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Merkle Proof.md",
+                "file": "Merkel Tree和Merkle Proof.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Merkle Proof"
+              "title": "Merkel Tree和Merkle Proof"
             }
           },
           {
@@ -188,9 +188,51 @@
               "icon": "lucide-file",
               "title": "零币和零钞"
             }
+          },
+          {
+            "id": "e92ed2da42831bf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Merkel Tree和Merkle Proof.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Merkel Tree和Merkle Proof"
+            }
+          },
+          {
+            "id": "8a013b666e64033c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "以太坊状态树.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "以太坊状态树"
+            }
+          },
+          {
+            "id": "9d04bb0510a79cb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sorted Merkle Tree.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sorted Merkle Tree"
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -337,22 +379,25 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ea678d89ec9785f9",
+  "active": "9d04bb0510a79cb5",
   "lastOpenFiles": [
-    "区块链不可篡改性的技术保证.md",
+    "Merkel Tree和Merkle Proof.md",
+    "Sorted Merkle Tree.md",
+    "以太坊状态树.md",
+    "区块链的数据结构.md",
+    "比特币的 P2SH 机制.md",
+    "哈希指针的本质.md",
     "零币和零钞.md",
+    "区块链不可篡改性的技术保证.md",
     "盲签名的技术实现.md",
     "盲签名（Blind Signature）.md",
     "零知识证明.md",
     "轻节点验证交易合法性流程.md",
-    "比特币的 P2SH 机制.md",
     "UTXO交易模型.md",
-    "Merkle Proof.md",
     "区块链协议升级方式.md",
     "区块链共识机制.md",
     "密码学原理.md",
     "挖矿的难度值以及挖矿的目标值.md",
-    "区块链的数据结构.md",
     "Web3介绍.md"
   ]
 }
